@@ -1,0 +1,110 @@
+:root {
+
+/* =========================
+   COLOR - PRIMITIVE
+========================= */
+
+/* Brand */
+--primitive-color-brand-50: #eff0fd;
+--primitive-color-brand-100: #d8dafa;
+--primitive-color-brand-200: #b6baf5;
+--primitive-color-brand-300: #969df1;
+--primitive-color-brand-400: #7882ed;
+--primitive-color-brand-500: #626fe9;
+--primitive-color-brand-600: #4155e3;
+--primitive-color-brand-700: #293ebe;
+--primitive-color-brand-800: #1a2a88;
+--primitive-color-brand-900: #0c1652;
+
+/* Neutral */
+--primitive-color-neutral-0: #ffffff;
+--primitive-color-neutral-50: #f9fafb;
+--primitive-color-neutral-100: #f3f4f6;
+--primitive-color-neutral-200: #e5e7eb;
+--primitive-color-neutral-300: #d2d6db;
+--primitive-color-neutral-400: #9da4ae;
+--primitive-color-neutral-500: #6c737f;
+--primitive-color-neutral-600: #4d5761;
+--primitive-color-neutral-700: #384250;
+--primitive-color-neutral-800: #1f2a37;
+--primitive-color-neutral-900: #111927;
+
+/* Status */
+--primitive-color-success-500: #17b26a;
+--primitive-color-warning-500: #f79009;
+--primitive-color-error-500: #f04438;
+--primitive-color-info-500: #2e90fa;
+
+/* =========================
+   SPACING
+========================= */
+
+--primitive-space-0: 0px;
+--primitive-space-1: 4px;
+--primitive-space-2: 8px;
+--primitive-space-3: 12px;
+--primitive-space-4: 16px;
+--primitive-space-5: 20px;
+--primitive-space-6: 24px;
+--primitive-space-8: 32px;
+--primitive-space-10: 40px;
+--primitive-space-12: 48px;
+--primitive-space-16: 64px;
+
+/* =========================
+   TYPOGRAPHY
+========================= */
+
+--primitive-font-family-primary: "Plus Jakarta Sans", sans-serif;
+
+--primitive-font-size-display-xl: 64px;
+--primitive-font-size-display-lg: 56px;
+--primitive-font-size-heading-lg: 40px;
+--primitive-font-size-heading-md: 32px;
+--primitive-font-size-heading-sm: 24px;
+--primitive-font-size-body-lg: 18px;
+--primitive-font-size-body-md: 16px;
+--primitive-font-size-body-sm: 14px;
+--primitive-font-size-caption: 12px;
+
+--primitive-lineheight-tight: 1.2;
+--primitive-lineheight-normal: 1.5;
+--primitive-lineheight-relaxed: 1.7;
+
+/* =========================
+   RADIUS
+========================= */
+
+--primitive-radius-sm: 4px;
+--primitive-radius-md: 8px;
+--primitive-radius-lg: 12px;
+--primitive-radius-xl: 16px;
+--primitive-radius-full: 9999px;
+
+/* =========================
+   STROKE
+========================= */
+
+--primitive-stroke-1: 1px;
+--primitive-stroke-2: 2px;
+
+/* =========================
+   MOTION
+========================= */
+
+--primitive-motion-fast: 120ms;
+--primitive-motion-normal: 200ms;
+--primitive-motion-slow: 300ms;
+--primitive-motion-ease-standard: cubic-bezier(0.2, 0, 0, 1);
+
+/* =========================
+   Z-INDEX
+========================= */
+
+--primitive-z-base: 1;
+--primitive-z-dropdown: 1000;
+--primitive-z-modal: 2000;
+--primitive-z-toast: 3000;
+--primitive-z-tooltip: 4000;
+
+}
